@@ -6,7 +6,7 @@ module.exports = {
       summary: `who starts many projects and finishes none.`,
     },
     description: `A place for projects and ideas.`,
-    siteUrl: `https://pauld.sh/`,
+    siteUrl: `http://pauld.sh`,
     social: {
       twitter: `pauld.sh`,
       github: `paulduszak`,
