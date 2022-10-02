@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://pauld.sh/`,
     social: {
       twitter: `pauld.sh`,
+      github: `paulduszak`,
     },
   },
   plugins: [
